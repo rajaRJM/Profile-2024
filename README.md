@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Raja Mahameru</h1>
+<h1 align="center">Hi 👋, I'm Rajaa Mahameru</h1>
 <h3 align="center">someone who likes technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarjm&label=Profile%20views&color=0e75b6&style=flat" alt="rajarjm" /> </p>
