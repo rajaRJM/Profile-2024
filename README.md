@@ -1,7 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Rajaa Mahameru</h1>
 <h3 align="center">someone who likes technology</h3>
+<img align="right" alt="Coding" width="400" src="https://www.jagoanhosting.com/blog/wp-content/uploads/2021/02/joshua-reddekopp-SyYmXSDnJ54-unsplash-scaled.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarjm&label=Profile%20views&color=0e75b6&style=flat" alt="rajarjm" /> </p>
 
